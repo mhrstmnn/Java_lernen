@@ -6,7 +6,7 @@ Immer dran denken: Java macht Spaß! 😂
 
 Als erstes die Community Edition von IntelliJ IDEA installieren:
 - Mit Homebrew: `brew install --cask intellij-idea-ce`
-- Oder als [Download](https://www.jetbrains.com/idea/download/#section=mac) von der Website
+- Oder als [Download](https://www.jetbrains.com/idea/download/#section=mac) von der offiziellen Website
 
 ## Repository öffnen
 
