@@ -43,10 +43,12 @@ idea "Java mit Michael"
    - [ ] Konstruktoren
    - [ ] Überladen von Konstruktoren
    - [ ] Vererbung und Polymorphismus
+   - [ ] Generische Typen
 6. Arrays und Sammlungen
    - [ ] Arrays
    - [ ] Listen (ArrayList, LinkedList)
    - [ ] Maps (HashMap, TreeMap)
+   - [ ] Iteratoren
 7. Fehlerbehandlung
    - [ ] Exception-Handling
    - [ ] Try-Catch-Finally-Block
@@ -54,7 +56,8 @@ idea "Java mit Michael"
 8. Datei-Ein- und Ausgabe
    - [ ] Lesen und Schreiben von Dateien
    - [ ] Serialisierung und Deserialisierung
-9. GUI-Programmierung mit JavaFX
+9. GUI-Programmierung
+   - [ ] Einführung in Swing
    - [ ] Einführung in JavaFX
    - [ ] Erstellen von Fenstern und Steuerelementen
    - [ ] Reaktion auf Benutzer-Ereignisse
