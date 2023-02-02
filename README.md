@@ -19,7 +19,7 @@ idea "Java mit Michael"
 
 ## Kapitel
 
-1. Einführung in Java
+1. [Einführung in Java](./src/Kapitel_1)
    - [ ] Geschichte und Verwendung von Java
    - [ ] Installieren von Java-Tools (JDK, IDE)
    - [ ] Hallo Welt-Programm
@@ -30,11 +30,11 @@ idea "Java mit Michael"
    - [ ] Typumwandlung
 3. Kontrollstrukturen Verzweigungen und Schleifen
    - Verzweigungen
-      - [ ] if-else-Struktur
-      - [ ] switch-case-Struktur
+     - [ ] if-else-Struktur
+     - [ ] switch-case-Struktur
    - Schleifen
-      - [ ] for-Schleifen
-      - [ ] while-Schleifen
+     - [ ] for-Schleifen
+     - [ ] while-Schleifen
 4. Methoden
    - [ ] Definition und Verwendung von Methoden
    - [ ] Übergabe von Argumenten
@@ -65,5 +65,5 @@ idea "Java mit Michael"
    - [ ] Erstellen von Fenstern und Steuerelementen
    - [ ] Reaktion auf Benutzer-Ereignisse
 10. Zusammenfassung und fortgeschrittene Themen
-   - [ ] Zusammenfassung der wichtigsten Konzepte
-   - [ ] Vorstellung von fortgeschrittenen Themen (z. B. Threading, Netzwerkprogrammierung, Datenbankzugriff)
+    - [ ] Zusammenfassung der wichtigsten Konzepte
+    - [ ] Vorstellung von fortgeschrittenen Themen (z. B. Threading, Netzwerkprogrammierung, Datenbankzugriff)
