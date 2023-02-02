@@ -3,18 +3,10 @@ package Kapitel_5.Beispiel_4;
 import java.util.ArrayList;
 
 public class GenericExample<T> {
-    private ArrayList<T> list;
+    private final ArrayList<T> list;
 
     public GenericExample() {
         this.list = new ArrayList<T>();
-    }
-
-    public void add(T element) {
-        this.list.add(element);
-    }
-
-    public T get(int index) {
-        return this.list.get(index);
     }
 
     public static void main(String[] args) {
@@ -30,5 +22,13 @@ public class GenericExample<T> {
         System.out.println(example.get(0));
         System.out.println(example.get(1));
         System.out.println(example.get(2));
+    }
+
+    public void add(T element) {
+        this.list.add(element);
+    }
+
+    public T get(int index) {
+        return this.list.get(index);
     }
 }

@@ -13,12 +13,12 @@ public class Employee {
         return name;
     }
 
-    public int getSalary() {
-        return salary;
-    }
-
     public void setName(String name) {
         this.name = name;
+    }
+
+    public int getSalary() {
+        return salary;
     }
 
     public void setSalary(int salary) {
