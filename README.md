@@ -34,10 +34,10 @@ idea "Java lernen"
 
 ### 3. [Kontrollstrukturen Verzweigungen und Schleifen](./src/Kapitel_3)
 
-- Verzweigungen
+- [ ] Verzweigungen
   - [ ] if-else-Struktur
   - [ ] switch-case-Struktur
-- Schleifen
+- [ ] Schleifen
   - [ ] for-Schleifen
   - [ ] while-Schleifen
 
