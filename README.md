@@ -1,6 +1,6 @@
-# Java mit Judy
+# Java lernen
 
-Immer dran denken: Java macht Spaß! 😂
+Die Kapitel und die dazugehörigen Code-Beispiele wurden mithilfe von [ChatGPT](https://chat.openai.com) erstellt.
 
 ## IDE installieren
 
@@ -12,9 +12,9 @@ Als erstes die Community Edition von IntelliJ IDEA installieren:
 ## Repository öffnen
 
 ```shell
-git clone https://github.com/mhrstmnn/Java_mit_Judy.git
-mv Java_mit_Judy "Java mit Michael"
-idea "Java mit Michael"
+git clone https://github.com/mhrstmnn/Java_lernen.git
+mv Java_lernen "Java lernen"
+idea "Java lernen"
 ```
 
 ## Kapitel
