@@ -12,8 +12,7 @@ Als erstes die Community Edition von IntelliJ IDEA installieren:
 ## Repository öffnen
 
 ```shell
-git clone https://github.com/mhrstmnn/Java_lernen.git
-mv Java_lernen "Java lernen"
+git clone https://github.com/mhrstmnn/Java_lernen.git "Java lernen"
 idea "Java lernen"
 ```
 
