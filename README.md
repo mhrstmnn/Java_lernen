@@ -16,7 +16,7 @@ git clone https://github.com/mhrstmnn/Java_lernen.git "Java lernen"
 idea "Java lernen"
 ```
 
-## Kapitel
+## Kapitel der Beispiele
 
 ### 1. [Einführung in Java](./src/Kapitel_1)
 
