@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_5.Beispiel_1;
+package de.hrstmnn.Beispiele.Kapitel_5.Beispiel_1;
 
 public class Person {
     private String name;

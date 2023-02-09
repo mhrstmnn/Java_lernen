@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_10;
+package de.hrstmnn.Beispiele.Kapitel_10;
 
 import java.sql.*;
 

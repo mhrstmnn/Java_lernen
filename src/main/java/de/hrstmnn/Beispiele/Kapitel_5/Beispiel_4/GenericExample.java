@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_5.Beispiel_4;
+package de.hrstmnn.Beispiele.Kapitel_5.Beispiel_4;
 
 import java.util.ArrayList;
 

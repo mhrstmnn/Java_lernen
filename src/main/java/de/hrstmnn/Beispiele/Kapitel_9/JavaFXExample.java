@@ -1,5 +1,5 @@
 /*
-package Beispiele.Kapitel_9;
+package de.hrstmnn.Beispiele.Kapitel_9;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;

@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_7;
+package de.hrstmnn.Beispiele.Kapitel_7;
 
 public class Calculator {
     public int divide(int numerator, int denominator) throws DivideByZeroException {

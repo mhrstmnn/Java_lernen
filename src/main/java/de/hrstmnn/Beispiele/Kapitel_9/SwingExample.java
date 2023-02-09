@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_9;
+package de.hrstmnn.Beispiele.Kapitel_9;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

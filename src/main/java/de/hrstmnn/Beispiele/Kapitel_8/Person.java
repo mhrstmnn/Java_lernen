@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_8;
+package de.hrstmnn.Beispiele.Kapitel_8;
 
 import java.io.Serializable;
 

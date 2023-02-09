@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_5.Beispiel_3;
+package de.hrstmnn.Beispiele.Kapitel_5.Beispiel_3;
 
 public class InterfacesExample {
     public static void main(String[] args) {

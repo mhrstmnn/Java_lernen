@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_5.Beispiel_2;
+package de.hrstmnn.Beispiele.Kapitel_5.Beispiel_2;
 
 public class InheritanceAndPolymorphism {
     public static void main(String[] args) {

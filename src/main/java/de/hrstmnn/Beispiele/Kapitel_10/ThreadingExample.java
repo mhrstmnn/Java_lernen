@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_10;
+package de.hrstmnn.Beispiele.Kapitel_10;
 
 public class ThreadingExample implements Runnable {
     private int count = 0;

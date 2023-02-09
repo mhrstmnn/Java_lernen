@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_2;
+package de.hrstmnn.Beispiele.Kapitel_2;
 
 import java.util.Arrays;
 

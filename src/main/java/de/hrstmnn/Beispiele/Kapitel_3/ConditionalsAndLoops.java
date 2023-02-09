@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_3;
+package de.hrstmnn.Beispiele.Kapitel_3;
 
 public class ConditionalsAndLoops {
     public static void main(String[] args) {

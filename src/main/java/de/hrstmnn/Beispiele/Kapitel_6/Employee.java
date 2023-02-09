@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_6;
+package de.hrstmnn.Beispiele.Kapitel_6;
 
 public class Employee {
     private String name;

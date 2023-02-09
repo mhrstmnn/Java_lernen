@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_4;
+package de.hrstmnn.Beispiele.Kapitel_4;
 
 public class Methods {
     public static void main(String[] args) {

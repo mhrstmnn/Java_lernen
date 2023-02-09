@@ -1,7 +1,7 @@
-package Beispiele.Kapitel_1;
+package de.hrstmnn.Beispiele.Kapitel_1;
 
 public class HelloWorld {
     public static void hello(String[] args) {
-        System.out.println("Hallo Welt");
+        System.out.println("Hello world!");
     }
 }

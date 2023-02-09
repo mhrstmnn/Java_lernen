@@ -1,4 +1,4 @@
-package Beispiele.Kapitel_5.Beispiel_3;
+package de.hrstmnn.Beispiele.Kapitel_5.Beispiel_3;
 
 public class Shape implements Drawable, Scalable {
     protected String color;
