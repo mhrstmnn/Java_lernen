@@ -1,6 +1,6 @@
 # Java lernen
 
-Die Kapitel und die dazugehörigen Code-Beispiele wurden mithilfe von [ChatGPT](https://chat.openai.com) erstellt.
+Die Kapitel und die dazugehörigen Code-Beispiele wurden mithilfe von [ChatGPT](https://chat.openai.com) erstellt
 
 ## IDE installieren
 
