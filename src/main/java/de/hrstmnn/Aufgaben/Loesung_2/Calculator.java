@@ -1,4 +1,4 @@
-package de.hrstmnn.Aufgaben.Uebung_1;
+package de.hrstmnn.Aufgaben.Loesung_2;
 
 import java.util.stream.DoubleStream;
 
