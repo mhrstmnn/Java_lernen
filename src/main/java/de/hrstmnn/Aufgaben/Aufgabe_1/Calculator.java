@@ -30,9 +30,9 @@ public class Calculator {
 
         // ...
 
-        System.out.println("Summe: " + summe);
-        System.out.println("Differenz: " + differenz);
-        System.out.println("Produkt: " + produkt);
-        System.out.println("Quotient: " + quotient);
+        // System.out.println("Summe: " + summe);
+        // System.out.println("Differenz: " + differenz);
+        // System.out.println("Produkt: " + produkt);
+        // System.out.println("Quotient: " + quotient);
     }
 }
